@@ -18,26 +18,14 @@ If you use this code, please cite this [Incremental Tube Construction for Human 
 
 The code for the tube construction algorithm is built in Matlab. Most of the functions used usually come with most Matlab distributions. Users might need to install Bioinformatics Toolbox, if it is not already present in the Matlab distribution. This is needed for the [graphconncomp](https://uk.mathworks.com/help/bioinfo/ref/graphconncomp.html) function.
 
-Caffe and Matcaffe
-putting sym link
-
 
 ### STEP-2 Downloading and preparing the dataset
 
-**UCF-101**
-Download the  dataset from [link]().
-After downloading the dataset, extract it within the  directory.
-
-**For your own dataset**
-
-### STEP-3 Downloading the trained Model
-The trained model for UCF-101 can be downloaded from [link]().
-
-After downloading the frame-level detections, please put it in the folder
-
+**UCF-101:**
+Download the images and ssd detections for UCF-101 from [link](https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/engs1635_ox_ac_uk/EYWs-k3zy1pHtOhQ3U0BDhIBCzvQc3wXvC4271dn4D0tsA?e=XVw8eh). After downloading the dataset, extract it within the repository as it is.
 
 ## TESTING
-Run the file 'mian.py'
+Run the file 'main.py'
 
 	python main.py
 
@@ -45,3 +33,6 @@ To visualize the results, make the flag 'DISPLAY = 1' or 'DISPLAY = 2' in file '
 
 ## TO-DO
 [to-do list](https://gist.github.com/harkiratbehl/cb499c4ec19b2ab3e81c7576b3990839)
+
+## Contact
+If you have any queries at all, or need help with understanding/using the code or any part of it, please do not hesitate to contact me (Harkirat) at harkiratbehl1@gmail.com .

@@ -1,4 +1,4 @@
-function main(term_f)
+function main()
     
     close all;
     clc;
