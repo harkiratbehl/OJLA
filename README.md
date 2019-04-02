@@ -22,7 +22,7 @@ The code for the tube construction algorithm is built in Matlab. Most of the fun
 ### STEP-2 Downloading and preparing the dataset
 
 **UCF-101:**
-Download the images and ssd detections for UCF-101 from [link](https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/engs1635_ox_ac_uk/EYWs-k3zy1pHtOhQ3U0BDhIBCzvQc3wXvC4271dn4D0tsA?e=XVw8eh). After downloading the dataset, extract it within the repository as it is.
+Download the images and ssd detections for UCF-101 from [link](https://drive.google.com/file/d/1FyED77Ro_NNBgsTVfXndHKl_qLHGYxzc/view?usp=sharing). After downloading the dataset, extract it within the repository as it is.
 
 ## TESTING
 Run the file 'main.py'
